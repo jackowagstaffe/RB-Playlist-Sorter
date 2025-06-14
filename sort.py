@@ -1,7 +1,6 @@
 import sys
 import csv
 import m3u8
-from pprint import pprint
 
 # We need to get the key information from RB playlists in order to sort them
 # and output them in a format which can be imported back into RB
