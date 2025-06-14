@@ -17,7 +17,7 @@ from the current directory, sorts it into ascending 5ths key order starting at
 Fm then outputs it to a new file: `{file_name}_sorted.m3u8` which can be 
 imported back into rekordbox.
 
-## Process to use the script
+## Process to use the script
 
 To sort a playlist called *My Tracks* you would:
 
